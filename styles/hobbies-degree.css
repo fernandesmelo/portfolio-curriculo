@@ -21,7 +21,6 @@
     flex-direction: row;
     justify-content: center;
     align-items: flex-start;
-    flex-wrap: wrap;
 }
 
 .hobbies__item,
@@ -31,7 +30,6 @@
     justify-content: center;
     align-items: center;
     align-content: center;
-    margin: 0 1rem 1rem 0;
     padding: 1rem;
     border-radius: 1rem;
     background: var(--black);
@@ -68,13 +66,6 @@
     text-align: center;
     line-height: 150%;
     color: var(--dark-blue);
-}
-
-@media screen and (min-width: 768px) {
-    .degree__item {
-        width: 10rem;
-        height: 10rem; 
-    }
 }
 
 @media screen and (min-width: 1200px) {
