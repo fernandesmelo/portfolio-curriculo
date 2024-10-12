@@ -36,7 +36,7 @@
     border-radius: 1rem;
     background: var(--black);
     background-origin: border-box;
-    box-shadow: inset 0 1000px #F5F5F5;
+    box-shadow: inset 0 1000px #FFFFFF;
     border: 2px solid transparent;
 }
 

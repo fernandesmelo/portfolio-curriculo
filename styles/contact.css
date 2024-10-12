@@ -51,15 +51,8 @@ strong {
     width: 90%;
 }
 
-.contact__form__link {
-    background-color: transparent;
-    text-decoration: none;
-    text-align: justify;
-    resize: none;
-    border: none;
-    border-bottom: 1.5px solid var(--black);
-    width: 90%;
-    padding-top: 2rem;
+.contact__content__list {
+    
 }
 
 .contact__form__link::placeholder {
